@@ -819,7 +819,8 @@ mark {background-color: $link_text_color; color: $layout_background_color; font-
   /* Cart
   /*--------------------------------------*/
   table#cart-detail {
-    width: 100%;
+    width:100%;
+    background: #ff00ff;
     tbody#line_items {
       tr {
 
